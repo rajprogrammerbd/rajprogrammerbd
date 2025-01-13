@@ -2,7 +2,6 @@
 
 I am Raj, a **Junior Frontend Engineer**. Having around 3 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajprogrammerbd/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajprogrammerbd)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10596051/raj-dutta)
 
@@ -13,7 +12,6 @@ I am Raj, a **Junior Frontend Engineer**. Having around 3 years of experience in
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
